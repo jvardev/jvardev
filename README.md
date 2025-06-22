@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, Im Juan 👋
 
 - Software developer with strong background handling `data`
 - 🔁 Automation and 🐍 `Python` enthusiast.

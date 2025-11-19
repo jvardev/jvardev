@@ -2,7 +2,7 @@
 
 - Software developer with strong background handling `data`
 - 🔁 Automation and 🐍 `Python` enthusiast.
-- 🌱 Currently diving into Generative AI and AI Agents.
+- Currently diving into Generative AI and AI Agents.
 - ✅ `Splunker`
 <!--
 **jvardev/jvardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
